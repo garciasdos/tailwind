@@ -1,4 +1,4 @@
-# hello-world
+# tailwind
 
 ## Project setup
 ```
